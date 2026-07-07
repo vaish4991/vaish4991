@@ -75,23 +75,25 @@ Python-based notification system supporting English, Hindi, and Telugu templates
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaish4991&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Vaishnavi's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaish4991&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Vaishnavi's Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaish4991&theme=tokyonight" alt="Vaishnavi's GitHub Activity"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaish4991&theme=tokyonight" height="180" alt="Vaishnavi's GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vaish4991&theme=tokyonight" height="180" alt="Languages by Repository"/>
 </p>
 
 
 ## 🏆 Achievements & Activities
 
-* 💻 Participated in multiple **Hackathons and Technical Competitions**
-* 🎓 Member of **IEEE**
-* 🌱 Completed **NSS participation**
-* 📢 Served as a **Campus Ambassador at IIT Bombay**
-* 🧑‍💼 Experience as an **Internshala Student Partner**
-* 🎤 Interested in **Public Speaking and Technology Communities**
-
+- 🎓 Achieved **9.8 GPA in the Second Semester**
+- 💻 Participated in multiple **Hackathons and Technical Competitions**
+- 📢 Served as a **Campus Ambassador at IIT Bombay**
+- 🧠 Built multiple projects across **AI/ML, Intelligent Agents, APIs, and Software Development**
+- 🤝 Contributed to **Open-Source Projects through Issues and Pull Requests**
 ---
 
 ## 📫 Connect With Me
