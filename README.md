@@ -77,11 +77,11 @@ Python-based notification system supporting English, Hindi, and Telugu templates
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaish4991\&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaish4991&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Vaishnavi's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaish4991&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Vaishnavi's Top Languages"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaish4991\&layout=compact)
-
----
 
 ## 🏆 Achievements & Activities
 
