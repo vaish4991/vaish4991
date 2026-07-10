@@ -21,6 +21,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
         with:
           USERNAME: vaish4991
+          BRANCH_NAME: main
+          UTC_OFFSET: 5.5
+          EXCLUDE: "2,4"
 
       - name: Commit generated cards
         run: |
