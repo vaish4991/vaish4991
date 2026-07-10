@@ -80,32 +80,31 @@ Python-based notification system supporting English, Hindi, and Telugu templates
 <div align="center">
 
 <a href="https://github.com/vaish4991">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=vaish4991&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    alt="Vaishnavi's GitHub Stats"
-    height="180"
-  />
+  <img src="https://img.shields.io/badge/GitHub-vaish4991-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
 
 <a href="https://github.com/vaish4991?tab=repositories">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaish4991&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    alt="Vaishnavi's Most Used Languages"
-    height="180"
-  />
+  <img src="https://img.shields.io/badge/Public_Repositories-View_My_Projects-238636?style=for-the-badge&logo=github" alt="View Repositories"/>
 </a>
 
-</div>
+<a href="https://github.com/vaish4991?tab=overview">
+  <img src="https://img.shields.io/badge/Contribution_Activity-View_on_GitHub-8957e5?style=for-the-badge&logo=github" alt="Contribution Activity"/>
+</a>
 
-## 📈 Contribution Activity
+<br/><br/>
 
-<div align="center">
+### 🚀 Explore My Work
 
-<a href="https://github.com/vaish4991">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=vaish4991&theme=tokyo-night&hide_border=true&area=true"
-    alt="Vaishnavi's Contribution Activity Graph"
-  />
+💻 **AI & Machine Learning Projects**
+🤖 **Intelligent Chatbots & AI Agents**
+🌐 **Web Development Projects**
+🐍 **Python Applications**
+☕ **Java Projects**
+
+<br/>
+
+<a href="https://github.com/vaish4991?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Repositories-→-0969da?style=for-the-badge&logo=github" alt="Explore My Repositories"/>
 </a>
 
 </div>
