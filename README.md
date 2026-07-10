@@ -77,14 +77,39 @@ Python-based notification system supporting English, Hindi, and Telugu templates
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaish4991&theme=tokyonight" alt="Vaishnavi's GitHub Activity"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaish4991&theme=tokyonight" height="180" alt="Vaishnavi's GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vaish4991&theme=tokyonight" height="180" alt="Languages by Repository"/>
-</p>
+<a href="https://github.com/vaish4991">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=vaish4991&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    alt="Vaishnavi's GitHub Stats"
+    height="180"
+  />
+</a>
+
+<a href="https://github.com/vaish4991?tab=repositories">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaish4991&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    alt="Vaishnavi's Most Used Languages"
+    height="180"
+  />
+</a>
+
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/vaish4991">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vaish4991&theme=tokyo-night&hide_border=true&area=true"
+    alt="Vaishnavi's Contribution Activity Graph"
+  />
+</a>
+
+</div>
+
 
 
 ## 🏆 Achievements & Activities
