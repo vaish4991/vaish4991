@@ -78,23 +78,12 @@ Python-based notification system supporting English, Hindi, and Telugu templates
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="./profile-summary-card-output/tokyonight/0-profile-details.svg"
-    alt="Vaishnavi's GitHub Activity"
-  />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Vaishnavi's GitHub Activity" width="100%" />
 </p>
 
 <p align="center">
-  <img
-    src="./profile-summary-card-output/tokyonight/3-stats.svg"
-    height="180"
-    alt="Vaishnavi's GitHub Stats"
-  />
-  <img
-    src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg"
-    height="180"
-    alt="Languages by Repository"
-  />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Vaishnavi's GitHub Stats" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Languages by Repository" width="49%" />
 </p>
 
 
